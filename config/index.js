@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/ae_towing',
+    assetsPublicPath: '/ae_towing/',
 
     /**
      * Source Maps

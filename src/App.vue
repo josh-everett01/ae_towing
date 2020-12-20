@@ -23,7 +23,7 @@
 </template>
 
 <script>
-import carImg from '~src/assets/pexels-mike-943930.jpg'
+import carImg from './assets/pexels-mike-943930.jpg'
 import MiddleSection from './components/MiddleSection.vue'
 import Contact from './components/Contact'
 
